@@ -1,4 +1,5 @@
 
+```yaml
 ---
 title: 'New Example Page'
 layout: 'AdvancedLayout'
@@ -36,3 +37,4 @@ sections:
       altText: Image alt text
       caption: Image caption
 ---
+```

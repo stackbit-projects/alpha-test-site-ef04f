@@ -49,7 +49,7 @@ sections:
         fontStyle: normal
         textAlign: left
         margin:
-          - mt-4
+          - mt-0
           - mb-4
       subtitle:
         fontWeight: 400

@@ -1,5 +1,3 @@
-
-```yaml
 ---
 title: 'New Example Page'
 layout: 'AdvancedLayout'

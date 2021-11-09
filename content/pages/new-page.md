@@ -37,4 +37,3 @@ sections:
       altText: Image alt text
       caption: Image caption
 ---
-```

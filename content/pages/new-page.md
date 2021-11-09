@@ -1,3 +1,4 @@
+
 ---
 title: 'New Example Page'
 layout: 'AdvancedLayout'
